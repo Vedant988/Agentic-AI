@@ -2,6 +2,8 @@
 
 > A production-grade, multi-agent AI pipeline that researches any company and produces a structured competitive intelligence brief in seconds.
 
+🚀 **Live Demo:** [https://agentic-ai-7.streamlit.app/](https://agentic-ai-7.streamlit.app/)
+
 ![Architecture](docs/architecture_diagram.jpg)
 
 ---
