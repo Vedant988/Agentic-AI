@@ -1,0 +1,16 @@
+{
+  "company_name": "Notion",
+  "sector": "Productivity software",
+  "competitors": [
+    "Airtable",
+    "Craft Agents",
+    "Scribe"
+  ],
+  "retry_count": 0,
+  "planning_trace": [
+    "[ORCHESTRATOR] Plan:\n{\n  \"target_company\": \"Notion\",\n  \"hypothesis_sector\": \"Productivity and collaboration software\",\n  \"search_intent\": \"Confirm Notion's primary market sector and identify its main competitors in the productivity/collaboration space\",\n  \"expected_competitors\": [\n    \"Coda\",\n    \"Airtable\",\n    \"ClickUp\"\n  ]\n}\nExtracted \u2192 sector: Productivity software | competitors: ['Airtable', 'Craft Agents', 'Scribe']"
+  ],
+  "error_log": [],
+  "research_results_count": 4,
+  "timestamp": "20260922_173041"
+}
